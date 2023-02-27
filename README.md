@@ -19,4 +19,3 @@ Pull requester kabul edilebilir. Büyük değişiklikler için lütfen önce ney
 
 # License,
 [MIT](https://opensource.org)
-
